@@ -1,9 +1,8 @@
 // async programming
 
-
 async function datafetch() {
-     let api = "https://fakestoreapi.com/products"
      try {
+          let api = "https://fakestoreapi.com/products"
           const res = await fetch(api)
           const finalRes = await res.json()
           console.log(finalRes);
