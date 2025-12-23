@@ -49,6 +49,4 @@ This repository covers the following backend topics in a **step-by-step, layered
 
 ---
 
-## 🗂️ Repository Structure (High-Level)
-
 
